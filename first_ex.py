@@ -1,1 +1,1 @@
-print ('My name is OLA, AND I LIKE WOMEN A LOT I NO DEY HEAR WORD, DEM DON USE WOMAN CURSE ME ,')
+print ('This marks the begining of my python journey')
