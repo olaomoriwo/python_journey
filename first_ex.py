@@ -12,3 +12,7 @@ x = 10
 y = "This is a cold sobo"
 print(x)
 print(y)
+#This is a comment.
+print("Hello, World!")
+carname = ("Volvo")
+
