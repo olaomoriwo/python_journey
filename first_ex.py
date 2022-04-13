@@ -39,3 +39,15 @@ written in
 more than just one line
 """
 print("Hello, World!")
+#This is a comment
+print("Python has no command for declaring variables")
+x = 5
+y = "John"
+print(x)
+print(y)
+x = 34 #x is of type int
+x = "Jolla" #x is now of str
+print(x)
+x = "Rated" #x is of type str
+x = 2 #x is now of int
+print(x)
